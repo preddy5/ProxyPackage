@@ -1,2 +1,2 @@
 
-        This class is used for installing python packages or to use urllib or urllib2 under proxy server
+        This module is used for setting proxy settings so as to install python packages or to use urllib or urllib2 under proxy server
